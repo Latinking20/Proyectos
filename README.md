@@ -1,5 +1,5 @@
 # Proyectos
-mis primeros programas en C++ 
+mis primeros programas 
 comparto los primeros programas que hice 
 recientemente me estoy metiendo en este mundo
 espero que les sirva de algo
