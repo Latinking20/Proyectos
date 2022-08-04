@@ -1,4 +1,4 @@
-# ProyectosC
+# Proyectos
 mis primeros programas en C++ 
 comparto los primeros programas que hice 
 recientemente me estoy metiendo en este mundo
